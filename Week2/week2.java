@@ -127,7 +127,7 @@ class SubsetFinder {
     }
 
     int[][] findPrime(int[] arr) {
-        // Findout Prime numbers among element of given array arr
+        // Finding out Prime numbers among element of given array arr
 
         int[] ourPrimeElements = new int[realArrLen];
         int primeItterator = 0;
